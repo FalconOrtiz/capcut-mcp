@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "capcut-mcp",
+  "version": "0.2.0",
+  "description": "Read and write CapCut desktop draft folders on local disk (vertical shorts first). Dry-run by default. No CapCut servers, no decryption.",
+  "author": { "name": "IRE Digital Media LLC" },
+  "license": "MIT",
+  "keywords": ["capcut", "mcp", "video", "shorts", "drafts", "subtitles"]
+}

@@ -1,0 +1,19 @@
+capcut-mcp
+Copyright (c) 2026 IRE Digital Media LLC. Licensed under the MIT License (LICENSE).
+
+Draft field shapes (segment, companion materials, video/audio/text materials,
+draft_meta_info.json media entries) are adapted from capcut-cli:
+  https://github.com/renezander030/capcut-cli
+  MIT License, Copyright (c) 2026 Rene Zander
+
+Version-marker seeding from an app-made project, the skip list for per-project
+sidecars, the audio_fade material shape, and the Timelines/ (active timeline)
+layout notes are adapted from capcut-cli docs and source (same licence).
+
+The "fill a CapCut-made empty project" (shell-first) approach follows
+capcut-shell-inject: https://github.com/zxypro1/capcut-shell-inject
+  MIT License, Copyright (c) 2026 Zone Tome (idea only; no code copied).
+
+No code is copied from pyCapCut / pyJianYingDraft / VectCutAPI or from the
+official CapCut Codex plugin. CapCut is a trademark of Bytedance Pte. Ltd.
+This project is not affiliated with or endorsed by ByteDance or CapCut.

@@ -1,0 +1,13 @@
+{
+  "name": "capcut-mcp",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Zero-dependency stdio MCP server for CapCut desktop draft folders.",
+  "license": "MIT",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "start": "node server.ts",
+    "test": "node --test test/server.test.ts test/features.test.ts"
+  }
+}

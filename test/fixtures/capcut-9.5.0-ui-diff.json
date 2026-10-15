@@ -1,0 +1,2748 @@
+{
+ "_about": "CapCut 9.5.0 (macOS) UI-diff samples, 2026-10-03. One change per step on a scratch project; anonymised (home path -> $USER_DATA/$HOME, request ids and signed URLs blanked). Draft version 360000 / 187.0.0.",
+ "transition_free_max_duration": {
+  "id": "F10EC9A3-0EBC-4639-AB56-DF15EB370B1B",
+  "type": "transition",
+  "name": "Combinar",
+  "effect_id": "6724845717472416269",
+  "resource_id": "6724845717472416269",
+  "third_resource_id": "6724845717472416269",
+  "source_platform": 1,
+  "path": "$USER_DATA/Cache/effect/6724845717472416269/7b53f4c008c4c684fccf8c7d4d46cc92",
+  "duration": 2466666,
+  "is_overlap": true,
+  "platform": "all",
+  "category_id": "25809",
+  "category_name": "Tendencias",
+  "request_id": "",
+  "is_ai_transition": false,
+  "video_path": "",
+  "task_id": ""
+ },
+ "transition_pro": {
+  "id": "F10EC9A3-0EBC-4639-AB56-DF15EB370B1B",
+  "type": "transition",
+  "name": "Tinta venenosa",
+  "effect_id": "7679652398452755719",
+  "resource_id": "7679652398452755719",
+  "third_resource_id": "0",
+  "source_platform": 1,
+  "path": "$USER_DATA/Cache/effect/7679652398452755719/aa8234c6dc94e9d59a9d8bc8687666de",
+  "duration": 2466666,
+  "is_overlap": true,
+  "platform": "all",
+  "category_id": "25809",
+  "category_name": "remen",
+  "request_id": "",
+  "is_ai_transition": false,
+  "video_path": "",
+  "task_id": ""
+ },
+ "filter_clip_intensity30": {
+  "id": "5F5C0873-201D-411B-ADE5-88A17C4047A8",
+  "effect_id": "7668224318974823701",
+  "resource_id": "7668224318974823701",
+  "third_resource_id": "0",
+  "name": "Rollo vintage",
+  "report_name": "",
+  "type": "filter",
+  "sub_type": "none",
+  "path": "$USER_DATA/Cache/effect/7668224318974823701/532210ce370f1d0cb63bd4ba1f3e668f",
+  "value": 0.3,
+  "visible": true,
+  "item_effect_type": 0,
+  "category_id": "25497",
+  "category_name": "jingxuan",
+  "category_key": "",
+  "sub_category_id": "",
+  "sub_category_name": "",
+  "platform": "all",
+  "apply_target_type": 0,
+  "source_platform": 1,
+  "version": "",
+  "adjust_params": [],
+  "time_range": null,
+  "formula_id": "",
+  "enable_skin_tone_correction": false,
+  "algorithm_artifact_path": "",
+  "intensity_key": "",
+  "face_adjust_params": [],
+  "exclusion_group": [],
+  "panel_id": "",
+  "bloom_params": null,
+  "request_id": "",
+  "color_match_info": {
+   "target_feature_path": "",
+   "source_feature_path": "",
+   "target_image_path": ""
+  },
+  "multi_language_current": "",
+  "lumi_hub_path": "",
+  "covering_relation_change": 0,
+  "beauty_face_auto_preset_id": "",
+  "beauty_body_auto_preset_id": "",
+  "beauty_face_auto_retouch_info": {
+   "face_id": [],
+   "beauty_face_auto_retouch_id": ""
+  },
+  "smart_color_mode": 0,
+  "is_from_intelligent_quality": false
+ },
+ "adjust_basic": [
+  {
+   "id": "FFB27878-1FEB-4398-BFB8-3558A0BFA6FA",
+   "effect_id": "7501974767453474064",
+   "resource_id": "7501974767453474064",
+   "third_resource_id": "",
+   "name": "",
+   "report_name": "",
+   "type": "brightness",
+   "sub_type": "none",
+   "path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+   "value": 1.0,
+   "visible": true,
+   "item_effect_type": 0,
+   "category_id": "",
+   "category_name": "",
+   "category_key": "",
+   "sub_category_id": "",
+   "sub_category_name": "",
+   "platform": "all",
+   "apply_target_type": 0,
+   "source_platform": 1,
+   "version": "v2",
+   "adjust_params": [],
+   "time_range": null,
+   "formula_id": "",
+   "enable_skin_tone_correction": false,
+   "algorithm_artifact_path": "",
+   "intensity_key": "",
+   "face_adjust_params": [],
+   "exclusion_group": [],
+   "panel_id": "",
+   "bloom_params": null,
+   "request_id": "",
+   "color_match_info": {
+    "target_feature_path": "",
+    "source_feature_path": "",
+    "target_image_path": ""
+   },
+   "multi_language_current": "",
+   "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+   "covering_relation_change": 0,
+   "beauty_face_auto_preset_id": "",
+   "beauty_body_auto_preset_id": "",
+   "beauty_face_auto_retouch_info": {
+    "face_id": [],
+    "beauty_face_auto_retouch_id": ""
+   },
+   "smart_color_mode": 0,
+   "is_from_intelligent_quality": false
+  },
+  {
+   "id": "7E0F58A7-BF92-4547-8352-9C35BCAF0798",
+   "effect_id": "7501974767453474064",
+   "resource_id": "7501974767453474064",
+   "third_resource_id": "",
+   "name": "",
+   "report_name": "",
+   "type": "saturation",
+   "sub_type": "none",
+   "path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+   "value": -1.0,
+   "visible": true,
+   "item_effect_type": 0,
+   "category_id": "",
+   "category_name": "",
+   "category_key": "",
+   "sub_category_id": "",
+   "sub_category_name": "",
+   "platform": "all",
+   "apply_target_type": 0,
+   "source_platform": 1,
+   "version": "v1",
+   "adjust_params": [],
+   "time_range": null,
+   "formula_id": "",
+   "enable_skin_tone_correction": false,
+   "algorithm_artifact_path": "",
+   "intensity_key": "",
+   "face_adjust_params": [],
+   "exclusion_group": [],
+   "panel_id": "",
+   "bloom_params": null,
+   "request_id": "",
+   "color_match_info": {
+    "target_feature_path": "",
+    "source_feature_path": "",
+    "target_image_path": ""
+   },
+   "multi_language_current": "",
+   "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+   "covering_relation_change": 0,
+   "beauty_face_auto_preset_id": "",
+   "beauty_body_auto_preset_id": "",
+   "beauty_face_auto_retouch_info": {
+    "face_id": [],
+    "beauty_face_auto_retouch_id": ""
+   },
+   "smart_color_mode": 0,
+   "is_from_intelligent_quality": false
+  },
+  {
+   "id": "E06E0D1C-AE94-4D62-B707-D62BAD7DEC79",
+   "effect_id": "7501974767453474064",
+   "resource_id": "7501974767453474064",
+   "third_resource_id": "",
+   "name": "",
+   "report_name": "",
+   "type": "temperature",
+   "sub_type": "none",
+   "path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+   "value": 1.0,
+   "visible": true,
+   "item_effect_type": 0,
+   "category_id": "",
+   "category_name": "",
+   "category_key": "",
+   "sub_category_id": "",
+   "sub_category_name": "",
+   "platform": "all",
+   "apply_target_type": 0,
+   "source_platform": 1,
+   "version": "v3",
+   "adjust_params": [],
+   "time_range": null,
+   "formula_id": "",
+   "enable_skin_tone_correction": false,
+   "algorithm_artifact_path": "",
+   "intensity_key": "",
+   "face_adjust_params": [],
+   "exclusion_group": [],
+   "panel_id": "",
+   "bloom_params": null,
+   "request_id": "",
+   "color_match_info": {
+    "target_feature_path": "",
+    "source_feature_path": "",
+    "target_image_path": ""
+   },
+   "multi_language_current": "",
+   "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+   "covering_relation_change": 0,
+   "beauty_face_auto_preset_id": "",
+   "beauty_body_auto_preset_id": "",
+   "beauty_face_auto_retouch_info": {
+    "face_id": [],
+    "beauty_face_auto_retouch_id": ""
+   },
+   "smart_color_mode": 0,
+   "is_from_intelligent_quality": false
+  }
+ ],
+ "hsl_red": {
+  "id": "15CA1199-0DDC-404F-9A62-549C8573297B",
+  "constant_material_id": "B08724E9-78F0-4E9B-BE42-678478CFB3EB",
+  "hsl_color_type": 1,
+  "hue": -100,
+  "saturation": 100,
+  "lightness": 0,
+  "interacting": true,
+  "version": "1",
+  "path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+  "type": "hsl",
+  "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+  "custom_color": "#FFE64444",
+  "resource_id": "7501974767453474064",
+  "source_platform": 1
+ },
+ "color_curves_luma": {
+  "id": "A80F686C-980D-4DCD-AFA5-6E1E6962A58F",
+  "type": "color_curves",
+  "panel": "adjust_collection",
+  "resource_id": "7501974767453474064",
+  "source_platform": 1,
+  "path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+  "luma": [
+   {
+    "sync_direction_control": true,
+    "anchor": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "left_control": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "right_control": {
+     "x": 0.20657276995305165,
+     "y": 0.2809358081979892
+    }
+   },
+   {
+    "sync_direction_control": true,
+    "anchor": {
+     "x": 0.57981220657277,
+     "y": 0.728538283062645
+    },
+    "left_control": {
+     "x": 0.41314553990610337,
+     "y": 0.5618716163959784
+    },
+    "right_control": {
+     "x": 0.7464788732394366,
+     "y": 0.8952049497293116
+    }
+   },
+   {
+    "sync_direction_control": true,
+    "anchor": {
+     "x": 1.0,
+     "y": 1.0
+    },
+    "left_control": {
+     "x": 0.8732394366197183,
+     "y": 0.9476024748646559
+    },
+    "right_control": {
+     "x": 1.0,
+     "y": 1.0
+    }
+   }
+  ],
+  "red": [],
+  "green": [],
+  "blue": [],
+  "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+  "link_status": false,
+  "select_channel": 0
+ },
+ "primary_color_wheels_lift": {
+  "id": "B96EA79C-673D-41E8-A9AF-567A7E6A11F1",
+  "type": "primary_color_wheels",
+  "panel": "adjust_collection",
+  "resource_id": "7501974767453474064",
+  "path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+  "lift": {
+   "red": 0.033745840714285685,
+   "green": -0.0160523627142857,
+   "blue": 0.05964423942857138,
+   "luma": 0.0,
+   "saturation": 0.0
+  },
+  "gamma": {
+   "red": 0.0,
+   "green": 0.0,
+   "blue": 0.0,
+   "luma": 0.0,
+   "saturation": 0.0
+  },
+  "gain": {
+   "red": 0.0,
+   "green": 0.0,
+   "blue": 0.0,
+   "luma": 0.0,
+   "saturation": 0.0
+  },
+  "offset": {
+   "red": 0.0,
+   "green": 0.0,
+   "blue": 0.0,
+   "luma": 0.0,
+   "saturation": 0.0
+  },
+  "intensity": 1.0,
+  "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+  "source_platform": 1
+ },
+ "speed_curve_montage": {
+  "id": "75576D39-59B7-49C4-8EA6-3C06DEE0C6A7",
+  "type": "speed",
+  "mode": 1,
+  "speed": 1.4534249930186771,
+  "curve_speed": {
+   "id": "6768648600848175619",
+   "source_platform": 0,
+   "name": "Montaje",
+   "speed_points": [
+    {
+     "x": 0.0,
+     "y": 0.9
+    },
+    {
+     "x": 0.1,
+     "y": 0.9
+    },
+    {
+     "x": 0.5,
+     "y": 6.8
+    },
+    {
+     "x": 0.65,
+     "y": 0.3
+    },
+    {
+     "x": 0.8,
+     "y": 1.0
+    },
+    {
+     "x": 1.0,
+     "y": 1.0
+    }
+   ]
+  }
+ },
+ "mask_circle": {
+  "id": "D5070067-3DB1-499F-B4E0-EA8644EB7758",
+  "type": "mask",
+  "category": "video",
+  "category_name": "",
+  "category_id": "",
+  "panel": "",
+  "is_old_version": false,
+  "resource_id": "7374021188315517456",
+  "constant_material_id": "0CAE0D0D-4E75-4066-B505-C7528F3AF442",
+  "name": "Círculo",
+  "resource_type": "circle",
+  "path": "$USER_DATA/Cache/effect/1068046525/3ab1c47350d987c8ad415497e020a38b",
+  "position_info": "",
+  "config": {
+   "width": 0.28,
+   "height": 0.5,
+   "centerX": 0.0,
+   "centerY": 0.0,
+   "rotation": 0.0,
+   "feather": 0.0,
+   "expansion": 0.0,
+   "roundCorner": 0.0,
+   "invert": false,
+   "aspectRatio": 1.0
+  },
+  "text_config": {
+   "content": "",
+   "font_name": "",
+   "font_path": "",
+   "font_resource_id": "",
+   "font_size": 15.0,
+   "bold_width": 0.0,
+   "italic_degree": 0,
+   "has_underline": false,
+   "line_gap": 0.0,
+   "char_spacing": 0.0,
+   "align_type": 15,
+   "scale": 1.0
+  },
+  "platform": "all",
+  "loader_work_space": "",
+  "track_segment": "",
+  "contour_path": null,
+  "source_platform": 0
+ },
+ "chroma_enabled_no_color": {
+  "id": "3D671E02-06EF-41E7-937F-C5550C86F533",
+  "type": "chroma",
+  "color": "",
+  "intensity_value": 0.2,
+  "shadow_value": 0.0,
+  "path": "/Applications/CapCut.app/Contents/Resources/Chroma2",
+  "resource_id": "",
+  "should_transfer_color": true,
+  "edge_smooth_value": 0.0,
+  "spill_value": 0.0,
+  "version": "v2"
+ },
+ "video_animation_in_out": {
+  "id": "10D62581-FED9-48C2-83D4-836513365EBD",
+  "type": "sticker_animation",
+  "animations": [
+   {
+    "id": "6740868384637850120",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "$USER_DATA/Cache/effect/6740868384637850120/6444aa1a1706f02003f9c56c4c0757b3",
+    "platform": "all",
+    "resource_id": "6740868384637850120",
+    "third_resource_id": "6740868384637850120",
+    "source_platform": 1,
+    "name": "Zoom 1",
+    "category_id": "2037708296",
+    "category_name": "Trending1",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   {
+    "id": "7229983825080619522",
+    "type": "out",
+    "start": 3766666,
+    "duration": 900000,
+    "path": "$USER_DATA/Cache/effect/7229983825080619522/e70e26e7aa770d0deedca54e3eac0323",
+    "platform": "all",
+    "resource_id": "7229983825080619522",
+    "third_resource_id": "7229983825080619522",
+    "source_platform": 1,
+    "name": "Humo",
+    "category_id": "2037708371",
+    "category_name": "Trending-2",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   }
+  ],
+  "multi_language_current": "none"
+ },
+ "text_animation_in_loop": {
+  "id": "430C9789-3D36-47CE-8368-F01ED7E24D0D",
+  "type": "sticker_animation",
+  "animations": [
+   {
+    "id": "7210980292243231233",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "$USER_DATA/Cache/effect/7210980292243231233/6828d67634e66ace1e76c4eb7cc2f8e6",
+    "platform": "all",
+    "resource_id": "7210980292243231233",
+    "third_resource_id": "7210980292243231233",
+    "source_platform": 1,
+    "name": "Maquina de escribir",
+    "category_id": "ruchang",
+    "category_name": "Entrada",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   {
+    "id": "7672949037338791182",
+    "type": "loop",
+    "start": 0,
+    "duration": 500000,
+    "path": "$USER_DATA/Cache/effect/7672949037338791182/4c6cf5d464549c1919be3c254638b421",
+    "platform": "all",
+    "resource_id": "7672949037338791182",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Verano neón",
+    "category_id": "xunhuan",
+    "category_name": "Bucle",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   }
+  ],
+  "multi_language_current": "none"
+ },
+ "video_effect_track": {
+  "id": "27616582-E0DA-4B6B-9087-B68921187E0D",
+  "effect_id": "7434872753355756048",
+  "resource_id": "7434872753355756048",
+  "name": "Grafiti de tiza",
+  "type": "video_effect",
+  "sub_type": 0,
+  "bind_segment_id": "",
+  "transparent_params": "",
+  "path": "$USER_DATA/Cache/effect/7434872753355756048/f0656a8c99219b086ce5d16260ba0883",
+  "value": 1.0,
+  "category_id": "27153",
+  "category_name": "hot2",
+  "platform": "all",
+  "apply_target_type": 2,
+  "source_platform": 1,
+  "version": "",
+  "item_effect_type": 0,
+  "adjust_params": [
+   {
+    "name": "effects_adjust_speed",
+    "value": 0.31034482758621,
+    "default_value": 0.31034482758621
+   },
+   {
+    "name": "effects_adjust_intensity",
+    "value": 1.0,
+    "default_value": 1.0
+   },
+   {
+    "name": "effects_adjust_texture",
+    "value": 1.0,
+    "default_value": 1.0
+   },
+   {
+    "name": "effects_adjust_color",
+    "value": 0.0,
+    "default_value": 0.0
+   }
+  ],
+  "time_range": null,
+  "formula_id": "",
+  "apply_time_range": null,
+  "render_index": 0,
+  "track_render_index": 0,
+  "common_keyframes": [],
+  "request_id": "",
+  "algorithm_artifact_path": "",
+  "disable_effect_faces": [],
+  "covering_relation_change": 0,
+  "enable_mask": true,
+  "effect_mask": [],
+  "enable_video_mask_stroke": true,
+  "enable_video_mask_shadow": true,
+  "aigc_current_artifact_path": "",
+  "aigc_current_artifact_cnt": 0,
+  "aigc_current_artifact_freeze_time": -1,
+  "aigc_current_artifact_freeze_progress": 0.0,
+  "sdk_extra": ""
+ },
+ "sticker": {
+  "id": "8E63D5CB-ABE3-45AA-82CC-264EAD314151",
+  "unique_id": "",
+  "type": "sticker",
+  "path": "$USER_DATA/Cache/artistEffect/7233770810731810053/630798d16c00480613ada8c51457627c",
+  "icon_url": "",
+  "preview_cover_url": "",
+  "sticker_id": "7233770810731810053",
+  "resource_id": "7233770810731810053",
+  "name": "3204",
+  "category_id": "1100",
+  "category_name": "1100",
+  "platform": "all",
+  "unicode": "",
+  "source_platform": 1,
+  "formula_id": "",
+  "check_flag": 1,
+  "team_id": "",
+  "request_id": "",
+  "combo_info": {
+   "text_templates": []
+  },
+  "sub_type": 0,
+  "radius": {
+   "top_left": 0.0,
+   "top_right": 0.0,
+   "bottom_left": 0.0,
+   "bottom_right": 0.0
+  },
+  "global_alpha": 1.0,
+  "background_color": "",
+  "background_alpha": 1.0,
+  "border_line_style": 0,
+  "border_width": 0.0,
+  "border_color": "",
+  "has_shadow": false,
+  "shadow_color": "",
+  "shadow_alpha": 0.8,
+  "shadow_smoothing": 0.0,
+  "shadow_distance": 0.0,
+  "shadow_point": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "shadow_angle": 0.0,
+  "shape_param": {
+   "shape_type": 0,
+   "roundness": [],
+   "custom_points": [],
+   "shape_size": []
+  },
+  "original_size": [],
+  "update_params": "",
+  "aigc_type": "none",
+  "sequence_type": false,
+  "cycle_setting": true,
+  "shape_fill_render_style": {
+   "color": {
+    "solid": {
+     "color": "#FFFFFF",
+     "alpha": 1.0
+    },
+    "gradient": {
+     "color": [],
+     "alpha": [],
+     "percent": [],
+     "angle": 90.0,
+     "mode": "all",
+     "style": "linear"
+    },
+    "texture": {
+     "path": "",
+     "flip": [],
+     "scale": 1.0,
+     "alpha": 1.0,
+     "angle": 90.0,
+     "blend": "no",
+     "range": 4,
+     "fill": "tile",
+     "resource_id": "",
+     "effect_id": "",
+     "play_speed": 1.0
+    },
+    "render_type": "solid"
+   },
+   "alpha": 1.0
+  },
+  "shape_fill_use_flower_color": false,
+  "multi_language_current": "none",
+  "corner_pin": null
+ },
+ "music_library": {
+  "id": "4A399CCB-9C08-4BB0-A62F-D4B8DE7C4BA9",
+  "unique_id": "",
+  "type": "music",
+  "name": "Dark War Beats",
+  "duration": 87400000,
+  "path": "$USER_DATA/Cache/music/1c221d8596c65bd3f8c12d7bac9b7e7f.mp3",
+  "category_name": "",
+  "wave_points": [],
+  "music_id": "7618377887975458867",
+  "app_id": 1775,
+  "text_id": "",
+  "tone_type": "",
+  "source_platform": 0,
+  "video_id": "",
+  "effect_id": "",
+  "resource_id": "",
+  "third_resource_id": "",
+  "category_id": "7473018724451388176",
+  "intensifies_path": "",
+  "formula_id": "",
+  "check_flag": 3,
+  "team_id": "",
+  "local_material_id": "",
+  "tone_speaker": "",
+  "mock_tone_speaker": "",
+  "tone_effect_id": "",
+  "tone_effect_name": "",
+  "tone_platform": "",
+  "cloned_model_type": "",
+  "tone_category_id": "",
+  "tone_category_name": "",
+  "tone_second_category_id": "",
+  "tone_second_category_name": "",
+  "tone_emotion_name_key": "",
+  "tone_emotion_style": "",
+  "tone_emotion_role": "",
+  "tone_emotion_selection": "",
+  "tone_emotion_scale": 0.0,
+  "moyin_emotion": "",
+  "request_id": "",
+  "query": "",
+  "search_id": "",
+  "sound_separate_type": "",
+  "is_text_edit_overdub": false,
+  "is_ugc": false,
+  "is_ai_clone_tone": false,
+  "is_ai_clone_tone_post": false,
+  "source_from": "",
+  "copyright_limit_type": "none",
+  "aigc_history_id": "",
+  "aigc_item_id": "",
+  "music_source": "",
+  "pgc_id": "",
+  "pgc_name": "",
+  "similiar_music_info": {
+   "original_song_id": "",
+   "original_song_name": ""
+  },
+  "ai_music_type": 0,
+  "ai_music_enter_from": "",
+  "lyric_type": 0,
+  "tts_task_id": "",
+  "tts_generate_scene": "",
+  "ai_music_generate_scene": 0,
+  "tts_benefit_info": {
+   "benefit_type": "none",
+   "benefit_log_id": "",
+   "benefit_log_extra": "",
+   "benefit_amount": -1
+  },
+  "tts_language_info": null
+ },
+ "sound_effect": {
+  "id": "F0479F1E-416E-4AE1-AF3C-7BBD6AB5FDCB",
+  "unique_id": "",
+  "type": "sound",
+  "name": "The sound of breaking eggs with paka (cooking / making sweets)",
+  "duration": 1200000,
+  "path": "$USER_DATA/Cache/music/50036ffc1a927cfc18f179d532661cc4.mp3",
+  "category_name": "",
+  "wave_points": [],
+  "music_id": "",
+  "app_id": 1775,
+  "text_id": "",
+  "tone_type": "",
+  "source_platform": 0,
+  "video_id": "",
+  "effect_id": "6817567995192150018",
+  "resource_id": "",
+  "third_resource_id": "",
+  "category_id": "7313817165235243777",
+  "intensifies_path": "",
+  "formula_id": "",
+  "check_flag": 1,
+  "team_id": "",
+  "local_material_id": "",
+  "tone_speaker": "",
+  "mock_tone_speaker": "",
+  "tone_effect_id": "",
+  "tone_effect_name": "",
+  "tone_platform": "",
+  "cloned_model_type": "",
+  "tone_category_id": "",
+  "tone_category_name": "",
+  "tone_second_category_id": "",
+  "tone_second_category_name": "",
+  "tone_emotion_name_key": "",
+  "tone_emotion_style": "",
+  "tone_emotion_role": "",
+  "tone_emotion_selection": "",
+  "tone_emotion_scale": 0.0,
+  "moyin_emotion": "",
+  "request_id": "",
+  "query": "",
+  "search_id": "",
+  "sound_separate_type": "",
+  "is_text_edit_overdub": false,
+  "is_ugc": false,
+  "is_ai_clone_tone": false,
+  "is_ai_clone_tone_post": false,
+  "source_from": "",
+  "copyright_limit_type": "none",
+  "aigc_history_id": "",
+  "aigc_item_id": "",
+  "music_source": "",
+  "pgc_id": "",
+  "pgc_name": "",
+  "similiar_music_info": {
+   "original_song_id": "",
+   "original_song_name": ""
+  },
+  "ai_music_type": 0,
+  "ai_music_enter_from": "",
+  "lyric_type": 0,
+  "tts_task_id": "",
+  "tts_generate_scene": "",
+  "ai_music_generate_scene": 0,
+  "tts_benefit_info": {
+   "benefit_type": "none",
+   "benefit_log_id": "",
+   "benefit_log_extra": "",
+   "benefit_amount": -1
+  },
+  "tts_language_info": null
+ },
+ "beats_auto": {
+  "before": {
+   "enable_ai_beats": false,
+   "gear": 404,
+   "mode": 404,
+   "gear_count": 0
+  },
+  "ritmo1": {
+   "enable_ai_beats": true,
+   "gear": 0,
+   "mode": 1,
+   "gear_count": 2
+  },
+  "ritmo2": {
+   "gear": 1
+  }
+ },
+ "voice_filter": {
+  "id": "862D34EF-7236-4EDF-9291-99DA185D9126",
+  "constant_material_id": "6CC5793E-4CDA-469C-A21C-180EB2E71094",
+  "type": "audio_effect",
+  "name": "Voz llena",
+  "path": "$USER_DATA/Cache/effect/7495602511638842625/4befc0f686c64a159d74875e32455e63",
+  "production_path": "",
+  "sub_type": 1,
+  "time_range": {
+   "start": 0,
+   "duration": 0
+  },
+  "speaker_id": "",
+  "resource_id": "7495602511638842625",
+  "third_resource_id": "0",
+  "source_platform": 1,
+  "category_id": "sound_effect",
+  "category_name": "Filtros de voz",
+  "audio_adjust_params": [
+   {
+    "value": 1.0,
+    "default_value": 1.0,
+    "parameterIndex": 0,
+    "portIndex": 0,
+    "name": "strength",
+    "min_value": 0.0,
+    "max_value": 1.0
+   }
+  ],
+  "is_vc_clone_tone": false,
+  "vc_type": "none",
+  "is_ugc": false
+ },
+ "loudness_normalize": {
+  "id": "9CF3818D-E862-4E5B-BCCA-7C64A780D561",
+  "enable": true,
+  "time_range": {
+   "start": 0,
+   "duration": 87400000
+  },
+  "file_id": "<md5>",
+  "target_loudness": -23.0,
+  "loudness_param": {
+   "avg_loudness": -11.903247833251953,
+   "peak_loudness": 0.04912090301513672
+  }
+ },
+ "time_marks": {
+  "id": "6DB86F35-D9CF-4871-AF87-29B38E6A369E",
+  "mark_items": [
+   {
+    "id": "E29E1038-FC11-4D76-A592-0355A7B18B73",
+    "time_range": {
+     "start": 8933333,
+     "duration": 0
+    },
+    "color": "#00c1cd",
+    "title": "Marcador 01"
+   }
+  ]
+ },
+ "adjustment_layer_placeholder": {
+  "id": "E726C772-A4DB-41C8-9CAC-4357828D24A6",
+  "name": "Ajustar1",
+  "type": "adjust",
+  "material_resource_id": ""
+ },
+ "freeze_photo_material": {
+  "id": "EC317029-504B-484C-8448-340E67002412",
+  "unique_id": "",
+  "type": "photo",
+  "duration": 10800000000,
+  "path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/008e58574e9663ac2dcdd26d1b2be489_1233333-sdr709.jpg",
+  "media_path": "",
+  "local_id": "",
+  "has_audio": false,
+  "reverse_path": "",
+  "intensifies_path": "",
+  "reverse_intensifies_path": "",
+  "intensifies_audio_path": "",
+  "cartoon_path": "",
+  "width": 1920,
+  "height": 1080,
+  "category_id": "",
+  "category_name": "",
+  "material_id": "",
+  "material_name": "Congelar",
+  "material_url": "",
+  "crop": {
+   "upper_left_x": 0.0,
+   "upper_left_y": 0.0,
+   "upper_right_x": 1.0,
+   "upper_right_y": 0.0,
+   "lower_left_x": 0.0,
+   "lower_left_y": 1.0,
+   "lower_right_x": 1.0,
+   "lower_right_y": 1.0
+  },
+  "crop_ratio": "free",
+  "audio_fade": null,
+  "crop_scale": 1.0,
+  "extra_type_option": 0,
+  "stable": {
+   "stable_level": 0,
+   "matrix_path": "",
+   "time_range": {
+    "start": 0,
+    "duration": 0
+   }
+  },
+  "matting": {
+   "flag": 0,
+   "path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/matting/adcf2a11363406a858f69cf1ee1d188b",
+   "interactiveTime": [],
+   "has_use_quick_brush": false,
+   "strokes": [],
+   "has_use_quick_eraser": false,
+   "expansion": 0,
+   "feather": 0,
+   "reverse": false,
+   "custom_matting_id": "5A6B6059-F062-49BE-BFDE-E6983EBFD312",
+   "enable_matting_stroke": false,
+   "is_clould": false,
+   "mask_video_path": "",
+   "cloud_product_fps": 0.0
+  },
+  "source": 0,
+  "source_platform": 0,
+  "formula_id": "",
+  "check_flag": 62978047,
+  "video_algorithm": {
+   "algorithms": [],
+   "time_range": null,
+   "path": "",
+   "gameplay_configs": [],
+   "ai_in_painting_config": [],
+   "complement_frame_config": null,
+   "motion_blur_config": null,
+   "deflicker": null,
+   "noise_reduction": null,
+   "quality_enhance": null,
+   "super_resolution": null,
+   "ai_background_configs": [],
+   "smart_complement_frame": null,
+   "aigc_generate": null,
+   "aigc_generate_list": [],
+   "mouth_shape_driver": null,
+   "ai_expression_driven": null,
+   "ai_motion_driven": null,
+   "image_interpretation": null,
+   "story_video_modify_video_config": {
+    "task_id": "",
+    "is_overwrite_last_video": false,
+    "tracker_task_id": "",
+    "generate_id": "",
+    "generate_card_id": ""
+   },
+   "skip_algorithm_index": []
+  },
+  "is_unified_beauty_mode": false,
+  "is_set_beauty_mode": false,
+  "object_locked": null,
+  "smart_motion": null,
+  "multi_camera_info": null,
+  "freeze": {
+   "source_material_id": "67A02B21-DA3C-4D07-872D-B4C9A501A953",
+   "source_material_path": "$HOME/capcut-mcp-work/calib-media/long_shot1_testsrc.mp4",
+   "reverse_material_path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/aea2e4dbd041a17435c1cce170f9375e.mp4",
+   "timestamp": 1233333
+  },
+  "picture_from": "none",
+  "picture_set_category_id": "",
+  "picture_set_category_name": "",
+  "team_id": "",
+  "local_material_id": "",
+  "origin_material_id": "",
+  "request_id": "",
+  "has_sound_separated": false,
+  "is_text_edit_overdub": false,
+  "is_ai_generate_content": false,
+  "is_video_copilot_aigc_content": false,
+  "aigc_type": "none",
+  "is_copyright": false,
+  "aigc_history_id": "",
+  "aigc_item_id": "",
+  "local_material_from": "",
+  "smart_match_info": null,
+  "beauty_face_preset_infos": [],
+  "beauty_body_preset_id": "",
+  "beauty_face_auto_preset": {
+   "preset_id": "",
+   "name": "",
+   "rate_map": "",
+   "scene": ""
+  },
+  "beauty_face_auto_preset_infos": [],
+  "beauty_body_auto_preset": null,
+  "live_photo_timestamp": -1,
+  "live_photo_cover_path": "",
+  "content_feature_info": null,
+  "corner_pin": null,
+  "surface_trackings": [],
+  "video_mask_stroke": {
+   "resource_id": "",
+   "path": "",
+   "type": "",
+   "color": "",
+   "size": 0.0,
+   "alpha": 0.0,
+   "distance": 0.0,
+   "texture": 0.0,
+   "horizontal_shift": 0.0,
+   "vertical_shift": 0.0
+  },
+  "video_mask_shadow": {
+   "resource_id": "",
+   "path": "",
+   "color": "",
+   "alpha": 0.0,
+   "blur": 0.0,
+   "distance": 0.0,
+   "angle": 0.0
+  },
+  "pre_applied_vip_materials": [],
+  "workflow_node_id": ""
+ },
+ "reverse": {
+  "segment.reverse": true,
+  "videos[].reverse_path": "##_draftpath_placeholder_0E685133-18CE-45ED-8CB8-2904A212EC80_##/aea2e4dbd041a17435c1cce170f9375e.mp4"
+ },
+ "volume_db_to_segment_volume": {
+  "-60": 0.0,
+  "-20": 0.10000000149011612,
+  "-10.5": 0.2985382676124573,
+  "0": 1.0,
+  "+6": 1.9952623844146729,
+  "+20 (max)": 10.0
+ },
+ "audio_fades_1_5s_2s": {
+  "id": "0DD6F120-03C6-40CB-A358-3AFD9BA68114",
+  "type": "audio_fade",
+  "fade_type": 0,
+  "fade_in_duration": 1500000,
+  "fade_out_duration": 2000000
+ },
+ "tracks_with_overlay": [
+  {
+   "id": "28CC93CE-E90E-4538-B473-7C881138E01B",
+   "type": "video",
+   "flag": 0,
+   "attribute": 0,
+   "name": "",
+   "is_default_name": true,
+   "segments": [
+    {
+     "render_index": 0,
+     "track_render_index": 0,
+     "target_timerange": {
+      "start": 0,
+      "duration": 5000000
+     }
+    }
+   ]
+  },
+  {
+   "id": "87F8E53F-BC6F-4AE5-B3BD-24CEF8834DCE",
+   "type": "video",
+   "flag": 2,
+   "attribute": 0,
+   "name": "",
+   "is_default_name": true,
+   "segments": [
+    {
+     "render_index": 1,
+     "track_render_index": 1,
+     "target_timerange": {
+      "start": 8066666,
+      "duration": 5000000
+     }
+    }
+   ]
+  }
+ ],
+ "tracks_final": [
+  {
+   "type": "video",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 0,
+     "track_render_index": 0
+    },
+    {
+     "render_index": 0,
+     "track_render_index": 0
+    },
+    {
+     "render_index": 0,
+     "track_render_index": 0
+    },
+    {
+     "render_index": 0,
+     "track_render_index": 0
+    }
+   ]
+  },
+  {
+   "type": "effect",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 11000,
+     "track_render_index": 1
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 14000,
+     "track_render_index": 2
+    }
+   ]
+  },
+  {
+   "type": "sticker",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 14001,
+     "track_render_index": 3
+    }
+   ]
+  },
+  {
+   "type": "adjust",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 0,
+     "track_render_index": 4
+    }
+   ]
+  },
+  {
+   "type": "audio",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 0,
+     "track_render_index": 5
+    }
+   ]
+  },
+  {
+   "type": "audio",
+   "flag": 0,
+   "segments": [
+    {
+     "render_index": 0,
+     "track_render_index": 6
+    }
+   ]
+  }
+ ],
+ "_about2": "Session 2 (2026-10-03 20:10-20:26): video-clip audio fades, denoise, voice changer on video, WordArt, bubble, text template, body effect, sticker animation, combo animation. Same anonymisation.",
+ "video_clip_audio_fade": {
+  "audio_fades": [
+   {
+    "id": "4B7CFED7-8A7A-4D6A-A907-E7B52ABB0340",
+    "type": "audio_fade",
+    "fade_type": 0,
+    "fade_in_duration": 1000000,
+    "fade_out_duration": 1500000
+   }
+  ],
+  "videos_audio_fade": [
+   {
+    "id": "4B7CFED7-8A7A-4D6A-A907-E7B52ABB0340",
+    "type": "audio_fade",
+    "fade_type": 0,
+    "fade_in_duration": 1000000,
+    "fade_out_duration": 1500000
+   }
+  ]
+ },
+ "realtime_denoise": [
+  {
+   "id": "A233C841-B16E-4EBB-A9DE-BC4AF0E46390",
+   "type": "realtime_denoise",
+   "is_denoise": true,
+   "denoise_mode": 1.0,
+   "denoise_rate": 0.85,
+   "path": "/Applications/CapCut.app/Contents/MacOS/../Resources/audiosami/unet_denoise_44k_music_model_v1.0.model",
+   "sami_name": "denoise_v2",
+   "sami_version": "1.0",
+   "sami_type": 2,
+   "is_from_hd_sounds": false
+  }
+ ],
+ "voice_changer_video_clip": [
+  {
+   "id": "0C1C87DA-EA35-4064-B3F7-CCE671A40473",
+   "constant_material_id": "A1F22CF3-5416-45F1-B76D-F1E283132228",
+   "type": "audio_effect",
+   "name": "Dulce",
+   "path": "$USER_DATA/Cache/effect/7320193577613529602/ac2110d039d35ad01ca8452a6eadc921",
+   "production_path": "",
+   "sub_type": 1,
+   "time_range": {
+    "start": 0,
+    "duration": 0
+   },
+   "speaker_id": "",
+   "resource_id": "7320193577613529602",
+   "third_resource_id": "7320193577613529602",
+   "source_platform": 1,
+   "category_id": "sound_effect",
+   "category_name": "Filtros de voz",
+   "audio_adjust_params": [
+    {
+     "value": 1.0,
+     "default_value": 1.0,
+     "parameterIndex": 0,
+     "portIndex": 0,
+     "name": "strength",
+     "min_value": 0.0,
+     "max_value": 1.0
+    }
+   ],
+   "is_vc_clone_tone": false,
+   "vc_type": "none",
+   "is_ugc": false
+  }
+ ],
+ "text_effect_wordart": [
+  {
+   "id": "1D0FB869-F24A-4A73-8383-F3B604F589D8",
+   "effect_id": "7678508573365751057",
+   "resource_id": "7678508573365751057",
+   "third_resource_id": "0",
+   "name": "Dynamic Pastel Color-Blocking Bubbles",
+   "report_name": "",
+   "type": "text_effect",
+   "sub_type": "none",
+   "path": "$USER_DATA/Cache/effect/7678508573365751057/90abc020602bfaca99adff9dca09d36f",
+   "value": 1.0,
+   "visible": true,
+   "item_effect_type": 0,
+   "category_id": "2037703786",
+   "category_name": "hot",
+   "category_key": "",
+   "sub_category_id": "",
+   "sub_category_name": "",
+   "platform": "all",
+   "apply_target_type": 0,
+   "source_platform": 1,
+   "version": "",
+   "adjust_params": [],
+   "time_range": null,
+   "formula_id": "",
+   "enable_skin_tone_correction": false,
+   "algorithm_artifact_path": "",
+   "intensity_key": "",
+   "face_adjust_params": [],
+   "exclusion_group": [],
+   "panel_id": "",
+   "bloom_params": null,
+   "request_id": "",
+   "color_match_info": {
+    "target_feature_path": "",
+    "source_feature_path": "",
+    "target_image_path": ""
+   },
+   "multi_language_current": "",
+   "lumi_hub_path": "",
+   "covering_relation_change": 0,
+   "beauty_face_auto_preset_id": "",
+   "beauty_body_auto_preset_id": "",
+   "beauty_face_auto_retouch_info": {
+    "face_id": [],
+    "beauty_face_auto_retouch_id": ""
+   },
+   "smart_color_mode": 0,
+   "is_from_intelligent_quality": false
+  }
+ ],
+ "text_bubble": [
+  {
+   "id": "BE2A0CAE-EC45-420A-8957-492CE703EEFF",
+   "effect_id": "7446995323060227333",
+   "resource_id": "7446995323060227333",
+   "third_resource_id": "6844049416047825415",
+   "name": "会话104",
+   "report_name": "",
+   "type": "text_shape",
+   "sub_type": "manual_stretch",
+   "path": "$USER_DATA/Cache/effect/7446995323060227333/9d70188586b6080e69698579fa1a104d",
+   "value": 1.0,
+   "visible": true,
+   "item_effect_type": 0,
+   "category_id": "bubble",
+   "category_name": "Burbuja",
+   "category_key": "",
+   "sub_category_id": "",
+   "sub_category_name": "",
+   "platform": "all",
+   "apply_target_type": 0,
+   "source_platform": 1,
+   "version": "",
+   "adjust_params": [],
+   "time_range": null,
+   "formula_id": "",
+   "enable_skin_tone_correction": false,
+   "algorithm_artifact_path": "",
+   "intensity_key": "",
+   "face_adjust_params": [],
+   "exclusion_group": [],
+   "panel_id": "",
+   "bloom_params": null,
+   "request_id": "",
+   "color_match_info": {
+    "target_feature_path": "",
+    "source_feature_path": "",
+    "target_image_path": ""
+   },
+   "multi_language_current": "",
+   "lumi_hub_path": "",
+   "covering_relation_change": 0,
+   "beauty_face_auto_preset_id": "",
+   "beauty_body_auto_preset_id": "",
+   "beauty_face_auto_retouch_info": {
+    "face_id": [],
+    "beauty_face_auto_retouch_id": ""
+   },
+   "smart_color_mode": 0,
+   "is_from_intelligent_quality": false
+  }
+ ],
+ "text_template": [
+  {
+   "id": "194AB116-81EC-42B9-9B7B-7F970D8AC753",
+   "version": "1.0.0",
+   "effect_id": "7599479427805793544",
+   "resource_id": "7599479427805793544",
+   "third_resource_id": "",
+   "name": "Readable EN BAM!",
+   "type": "text_template",
+   "path": "$USER_DATA/Cache/artistEffect/7599479427805793544/034b61d6984267eb62c5a721364e3915",
+   "category_id": "51005635",
+   "category_name": "Tendencias",
+   "platform": "all",
+   "text_to_audio_ids": [],
+   "source_platform": 1,
+   "resources": [
+    {
+     "panel": "default",
+     "path": "$USER_DATA/Cache/artistEffect/7233770810731728133/4dce7aac1836a16a8129ffc21ea8d36b",
+     "resource_id": "7233770810731728133",
+     "source_platform": 1
+    },
+    {
+     "panel": "default",
+     "path": "$USER_DATA/Cache/artistEffect/7233770811994279174/1e562732fbd25c452cf1a90b9b4bfdf9",
+     "resource_id": "7233770811994279174",
+     "source_platform": 1
+    },
+    {
+     "panel": "fonts",
+     "path": "$USER_DATA/Cache/effect/7450027361824674305/947e60ff41ae536604eaaadca468cfe4/Railway-Gank.otf",
+     "resource_id": "7450027361824674305",
+     "source_platform": 1
+    },
+    {
+     "panel": "flower",
+     "path": "$USER_DATA/Cache/effect/7524197386252520757/7f78ec1d5cf793b5a1a0241bf3746dbb",
+     "resource_id": "7524197386252520757",
+     "source_platform": 1
+    },
+    {
+     "panel": "text",
+     "path": "$USER_DATA/Cache/effect/7314576117426295298/e5b79c83b4a12edb15d2389a83c51476",
+     "resource_id": "7314576117426295298",
+     "source_platform": 1
+    },
+    {
+     "panel": "text",
+     "path": "$USER_DATA/Cache/effect/6909707735827223042/ccd09fe5c4969b5f195099a8ec2ff418",
+     "resource_id": "6909707735827223042",
+     "source_platform": 1
+    }
+   ],
+   "formula_id": "",
+   "text_info_resources": [
+    {
+     "id": "AE8EA2E9-A7FE-4F14-A1D2-95F1731D4A18",
+     "attach_info": {
+      "start_time": 0,
+      "duration": 3000000,
+      "original_size_width": 135.81329345703125,
+      "original_size_height": 87.5,
+      "clip": {
+       "scale": {
+        "x": 4.291116714477539,
+        "y": 4.291116714477539
+       },
+       "rotation": -5.45864725112915,
+       "transform": {
+        "x": 0.0,
+        "y": 0.0
+       },
+       "flip": {
+        "vertical": false,
+        "horizontal": false
+       },
+       "alpha": 1.0
+      }
+     },
+     "text_material_id": "23AEEE8D-8F28-424D-8651-35EF299FF898",
+     "extra_material_refs": [
+      "9EF0AEB8-1B03-441C-966E-6DFCF3B96BEB",
+      "B685A43D-0A69-4693-BB0B-A70E8ABF66F1"
+     ],
+     "clip_type": "",
+     "lyric_keyframes": [],
+     "word_index": [],
+     "order_in_layer": 0,
+     "capital": ""
+    }
+   ],
+   "non_text_info_resources": [
+    {
+     "name": "CE5B895F-72DC-438f-BC90-CC2258ADBDF6",
+     "type": "sticker",
+     "attach_info": {
+      "start_time": 0,
+      "duration": 3000000,
+      "original_size_width": 280.0,
+      "original_size_height": 280.0,
+      "clip": {
+       "scale": {
+        "x": 1.832640290260315,
+        "y": 1.832640290260315
+       },
+       "rotation": -5.45864725112915,
+       "transform": {
+        "x": 0.0,
+        "y": 0.0
+       },
+       "flip": {
+        "vertical": false,
+        "horizontal": false
+       },
+       "alpha": 1.0
+      }
+     },
+     "shape_param": {
+      "shape_type": 0,
+      "points": []
+     },
+     "emoji_sticker_info": null,
+     "extra_material_refs": []
+    },
+    {
+     "name": "4547177F-F32B-4ac4-874C-1DD241ABF8B0",
+     "type": "sticker",
+     "attach_info": {
+      "start_time": 0,
+      "duration": 3000000,
+      "original_size_width": 280.0,
+      "original_size_height": 280.0,
+      "clip": {
+       "scale": {
+        "x": 2.352213144302368,
+        "y": 2.352216958999634
+       },
+       "rotation": -5.45864725112915,
+       "transform": {
+        "x": 0.0,
+        "y": 0.0
+       },
+       "flip": {
+        "vertical": false,
+        "horizontal": false
+       },
+       "alpha": 1.0
+      }
+     },
+     "shape_param": {
+      "shape_type": 0,
+      "points": []
+     },
+     "emoji_sticker_info": null,
+     "extra_material_refs": []
+    }
+   ],
+   "check_flag": 7,
+   "text_template_preset_resource_id": "",
+   "is_3d": false,
+   "is_pre_rendered": false,
+   "aigc_type": "none",
+   "text_template_resource_type": "text_template",
+   "aigc_config": {
+    "prompt": "",
+    "seed": 0,
+    "model": "",
+    "font_item": {
+     "id": "643BA0F3-AD7A-4662-A23B-D40DA9BA05CC",
+     "resource_id": "",
+     "third_resource_id": "",
+     "category_id": "",
+     "category_name": "",
+     "source_platform": 0,
+     "path": "",
+     "effect_id": "",
+     "title": "",
+     "team_id": "",
+     "file_uri": "",
+     "request_id": ""
+    }
+   },
+   "request_id": "",
+   "origin_word_info": {
+    "text": "",
+    "start_time": 0,
+    "end_time": 0,
+    "words": [],
+    "keyword_ranges": []
+   },
+   "current_word_info": {
+    "text": "",
+    "start_time": 0,
+    "end_time": 0,
+    "words": [],
+    "keyword_ranges": []
+   },
+   "is_dynamic_build": false,
+   "is_ai_emoji": false,
+   "is_lyric_effect": false,
+   "lyric_group_id": "",
+   "merge_content": "",
+   "is_uneven_animation": false,
+   "material_text_ranges": [],
+   "ai_emoji_config": null,
+   "preview_time": 0.1,
+   "render_mode": 0
+  }
+ ],
+ "body_effect": [
+  {
+   "id": "8E42F6D6-69D6-49CC-B1DB-27562331C06F",
+   "effect_id": "7688574067632377106",
+   "resource_id": "7688574067632377106",
+   "name": "Figura neón",
+   "type": "face_effect",
+   "sub_type": 0,
+   "bind_segment_id": "",
+   "transparent_params": "",
+   "path": "$USER_DATA/Cache/effect/7688574067632377106/b559e79dbc0a74cfc0b3f31ef8abf9fc",
+   "value": 1.0,
+   "category_id": "27323",
+   "category_name": "Tendencias",
+   "platform": "all",
+   "apply_target_type": 2,
+   "source_platform": 1,
+   "version": "",
+   "item_effect_type": 0,
+   "adjust_params": [
+    {
+     "name": "effects_adjust_speed",
+     "value": 0.33333333333333,
+     "default_value": 0.33333333333333
+    }
+   ],
+   "time_range": null,
+   "formula_id": "",
+   "apply_time_range": null,
+   "render_index": 0,
+   "track_render_index": 0,
+   "common_keyframes": [],
+   "request_id": "",
+   "algorithm_artifact_path": "##_draftpath_placeholder_<draft-id>_##/video_effect/multi_faces_algorithm/45C3607C-48A1-4093-B804-F1AE320C1A1A",
+   "disable_effect_faces": [],
+   "covering_relation_change": 0,
+   "enable_mask": true,
+   "effect_mask": [],
+   "enable_video_mask_stroke": true,
+   "enable_video_mask_shadow": true,
+   "aigc_current_artifact_path": "",
+   "aigc_current_artifact_cnt": 0,
+   "aigc_current_artifact_freeze_time": -1,
+   "aigc_current_artifact_freeze_progress": 0.0,
+   "sdk_extra": ""
+  }
+ ],
+ "sticker_animation_in": [
+  {
+   "id": "0583A5DD-49A0-4E2F-B32D-477C62E2F42D",
+   "type": "sticker_animation",
+   "animations": [
+    {
+     "id": "",
+     "type": "in",
+     "start": 0,
+     "duration": 500000,
+     "path": "$USER_DATA/Cache/effect/7598471787764141329/cfadcbd2e3be8136b919828fa407cd1b",
+     "platform": "all",
+     "resource_id": "7598471787764141329",
+     "third_resource_id": "0",
+     "source_platform": 1,
+     "name": "Pliegue",
+     "category_id": "",
+     "category_name": "",
+     "panel": "",
+     "material_type": "sticker",
+     "anim_adjust_params": null,
+     "request_id": ""
+    }
+   ],
+   "multi_language_current": "none"
+  }
+ ],
+ "video_combo_animation": [
+  {
+   "id": "6759078592740594184",
+   "type": "group",
+   "start": 0,
+   "duration": 4600000,
+   "path": "$USER_DATA/Cache/effect/6759078592740594184/cac9a365aab6a7fe878431abd85d4b5d",
+   "platform": "all",
+   "resource_id": "6759078592740594184",
+   "third_resource_id": "6759078592740594184",
+   "source_platform": 1,
+   "name": "Zoom 1",
+   "category_id": "2037708346",
+   "category_name": "Trending-1",
+   "panel": "video",
+   "material_type": "video",
+   "anim_adjust_params": null,
+   "request_id": ""
+  }
+ ],
+ "effect_track_two_segments": [
+  {
+   "start": 4466666,
+   "render_index": 11001,
+   "track_render_index": 1
+  },
+  {
+   "start": 11066666,
+   "render_index": 11000,
+   "track_render_index": 1
+  }
+ ],
+ "_about3": "Session 3 (2026-10-03 22:10-22:24): LUT import/apply, adjustment-layer sliders (all 15), compound clip via menu, keyframe easing, chroma pick, stabilization, canvas color/blur, auto beats. Same anonymisation.",
+ "lut_clip": [
+  {
+   "id": "7AD1B80A-08C0-4FCE-9C3D-B756564510B3",
+   "effect_id": "7501974767453474064",
+   "resource_id": "7501974767453474064",
+   "third_resource_id": "",
+   "name": "warm.cube",
+   "report_name": "",
+   "type": "lut",
+   "sub_type": "none",
+   "path": "$USER_DATA/Resources/Lut/warm/warm.cube;$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996",
+   "value": 1.0,
+   "visible": true,
+   "item_effect_type": 0,
+   "category_id": "",
+   "category_name": "",
+   "category_key": "",
+   "sub_category_id": "",
+   "sub_category_name": "",
+   "platform": "all",
+   "apply_target_type": 0,
+   "source_platform": 1,
+   "version": "",
+   "adjust_params": [],
+   "time_range": null,
+   "formula_id": "",
+   "enable_skin_tone_correction": false,
+   "algorithm_artifact_path": "",
+   "intensity_key": "",
+   "face_adjust_params": [],
+   "exclusion_group": [],
+   "panel_id": "",
+   "bloom_params": null,
+   "request_id": "",
+   "color_match_info": {
+    "target_feature_path": "",
+    "source_feature_path": "",
+    "target_image_path": ""
+   },
+   "multi_language_current": "",
+   "lumi_hub_path": "$USER_DATA/Cache/effect/7501974767453474064/26e574bcfa176c3c1a1f7fd5df0a4996/lumi_hub_path",
+   "covering_relation_change": 0,
+   "beauty_face_auto_preset_id": "",
+   "beauty_body_auto_preset_id": "",
+   "beauty_face_auto_retouch_info": {
+    "face_id": [],
+    "beauty_face_auto_retouch_id": ""
+   },
+   "smart_color_mode": 0,
+   "is_from_intelligent_quality": false
+  }
+ ],
+ "adjustment_layer_sliders": {
+  "ui": {
+   "Temp": 20,
+   "Tinte": 10,
+   "Saturacion": -20,
+   "Exposicion": 30,
+   "Contraste": 11,
+   "Iluminar": 12,
+   "Sombra": 13,
+   "Blancos": 14,
+   "Negros": 15,
+   "Luminosidad": 16,
+   "Enfocar": 21,
+   "Claridad": 22,
+   "Particulas": 23,
+   "Desvanecer": 24,
+   "Vineta": 25
+  },
+  "effects": [
+   {
+    "type": "brightness",
+    "value": 0.6,
+    "version": "v2"
+   },
+   {
+    "type": "contrast",
+    "value": 0.22,
+    "version": "v3"
+   },
+   {
+    "type": "saturation",
+    "value": -0.4,
+    "version": "v1"
+   },
+   {
+    "type": "sharpen",
+    "value": 0.21,
+    "version": "v1"
+   },
+   {
+    "type": "highlight",
+    "value": 0.24,
+    "version": "v3"
+   },
+   {
+    "type": "shadow",
+    "value": 0.26,
+    "version": "v3"
+   },
+   {
+    "type": "white",
+    "value": 0.28,
+    "version": ""
+   },
+   {
+    "type": "black",
+    "value": 0.3,
+    "version": ""
+   },
+   {
+    "type": "clear",
+    "value": 0.22,
+    "version": ""
+   },
+   {
+    "type": "temperature",
+    "value": 0.4,
+    "version": "v3"
+   },
+   {
+    "type": "tone",
+    "value": 0.2,
+    "version": "v3"
+   },
+   {
+    "type": "fade",
+    "value": 0.24,
+    "version": ""
+   },
+   {
+    "type": "light_sensation",
+    "value": 0.32,
+    "version": ""
+   },
+   {
+    "type": "vignetting",
+    "value": 0.5,
+    "version": "v1"
+   },
+   {
+    "type": "particle",
+    "value": 0.23,
+    "version": "v2"
+   },
+   {
+    "type": "lut",
+    "value": 1.0,
+    "version": ""
+   }
+  ]
+ },
+ "keyframe_ease_in_out": {
+  "keyframe_list": [
+   {
+    "id": "12DDF3E4-9BB8-4B59-A1A5-3E8D8ABB337F",
+    "curveType": "FreeCurveInOut",
+    "time_offset": 800000,
+    "left_control": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "right_control": {
+     "x": 1666000.0,
+     "y": 0.0
+    },
+    "values": [
+     0.0
+    ],
+    "string_value": "",
+    "graphID": ""
+   },
+   {
+    "id": "339F5F52-8FF5-4F08-8540-72822AACC683",
+    "curveType": "FreeCurveInOut",
+    "time_offset": 4766667,
+    "left_control": {
+     "x": -1666001.0,
+     "y": 0.0
+    },
+    "right_control": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "values": [
+     0.15625
+    ],
+    "string_value": "",
+    "graphID": "AFC7134E-CDD1-40F5-8357-D1978C21D687"
+   }
+  ],
+  "keyframe_graph_list": [
+   {
+    "id": "AFC7134E-CDD1-40F5-8357-D1978C21D687",
+    "resource_id": "7418178875479298577",
+    "resource_name": "Curva",
+    "source_platform": 1,
+    "graph_points": []
+   }
+  ]
+ },
+ "compound_clip": {
+  "drafts": [
+   {
+    "id": "2048D231-8D73-49B5-B4FA-813B3F396054",
+    "type": "combination",
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "formula_id": "",
+    "combination_id": "32EDB4DE-7DBE-43EE-8690-BE5648193861",
+    "combination_type": "none",
+    "aimusic_mv_template_info": null,
+    "precompile_combination": false,
+    "draft_file_path": "",
+    "draft_cover_path": "",
+    "draft_config_path": "",
+    "draft": {
+     "(embedded full draft)": true,
+     "id": "3BB18A8C-81E9-490E-B6A3-584F5945069B",
+     "duration": 3766666,
+     "tracks": [
+      "video"
+     ]
+    }
+   }
+  ],
+  "video_material": {
+   "type": "video",
+   "path": "",
+   "material_name": "Clip combinado1",
+   "extra_type_option": 2,
+   "duration": 3766666,
+   "width": 1920,
+   "height": 1080
+  },
+  "config.combination_max_index": 2
+ },
+ "canvas_color_ui": {
+  "type": "canvas_color",
+  "color": "#f4c70fff"
+ },
+ "canvas_blur_levels": [
+  0.0625,
+  0.375,
+  0.75,
+  1.0
+ ],
+ "stabilization": {
+  "videos[].stable": {
+   "stable_level": 2,
+   "matrix_path": "",
+   "time_range": {
+    "start": 0,
+    "duration": 0
+   }
+  },
+  "ui": "Estabilizacion (Pro) > Nivel Recomendado"
+ },
+ "_about4": "Session 4 (2026-10-03 22:32-22:56): stabilization levels, audio channel copy, text stroke/background box/shadow values, mask shapes and params, WordArt removal. AI/cloud features out of scope (<owner> 2026-10-03). Same anonymisation.",
+ "stabilization_levels": {
+  "videos[].stable.stable_level": {
+   "0": "off",
+   "1": "Corte minimo",
+   "2": "Recomendado",
+   "3": "Mas estable"
+  },
+  "matrix_path": ""
+ },
+ "audio_channel_copy": {
+  "material": {
+   "id": "CCA7C3F5-1D8D-45AF-B6F2-98C14BE3A7F7",
+   "type": "none",
+   "audio_channel_mapping": 2,
+   "is_config_open": true
+  },
+  "ui": "Audio > Basico > Completar canal: Ninguno 0, Duplicar izquierdo en derecho 1, Duplicar derecho en izquierdo 2"
+ },
+ "text_stroke_bg_shadow": {
+  "ui": {
+   "stroke": "Trazo Grosor 60",
+   "background": "Fondo style 2, Opacidad 50, Rectangulo redondeado 30, Alto 20, Ancho 25, Desplazamiento Y 70, X 30",
+   "shadow": "Sombra Opacidad 60, Desenfoque 40, Distancia 12, Angulo 30"
+  },
+  "material": {
+   "has_shadow": true,
+   "shadow_color": "#000000",
+   "shadow_alpha": 0.6000000238418579,
+   "shadow_smoothing": 1.200000062584877,
+   "shadow_distance": 12.0,
+   "shadow_point": {
+    "x": 1.8706148721743878,
+    "y": 1.0799999999999998
+   },
+   "shadow_angle": 30.0,
+   "shadow_thickness_projection_enable": false,
+   "shadow_thickness_projection_angle": 0.0,
+   "shadow_thickness_projection_distance": 0.0,
+   "border_alpha": 1.0,
+   "border_color": "#000000",
+   "border_width": 0.11999999731779099,
+   "border_mode": 0,
+   "check_flag": 63,
+   "background_color": "#000000",
+   "background_alpha": 0.5,
+   "background_style": 2,
+   "background_round_radius": 0.3,
+   "background_width": 0.25,
+   "background_height": 0.2,
+   "background_vertical_offset": 0.3999999999999999,
+   "background_horizontal_offset": -0.4,
+   "background_fill": ""
+  },
+  "content": {
+   "styles": [
+    {
+     "fill": {
+      "content": {
+       "solid": {
+        "color": [
+         1,
+         1,
+         1
+        ]
+       },
+       "render_type": "solid"
+      }
+     },
+     "range": [
+      0,
+      20
+     ],
+     "shadows": [
+      {
+       "thickness_projection_distance": 0,
+       "diffuse": 0.06666667014360428,
+       "angle": 30,
+       "thickness_projection_enable": false,
+       "content": {
+        "solid": {
+         "color": [
+          0,
+          0,
+          0
+         ]
+        },
+        "render_type": "solid"
+       },
+       "distance": 12,
+       "thickness_projection_angle": -45,
+       "alpha": 0.600000023841858
+      }
+     ],
+     "strokes": [
+      {
+       "width": 0.119999997317791,
+       "mode": 0,
+       "content": {
+        "solid": {
+         "color": [
+          0,
+          0,
+          0
+         ]
+        },
+        "render_type": "solid"
+       }
+      }
+     ],
+     "useLetterColor": true,
+     "size": 15,
+     "font": {
+      "path": "/Applications/CapCut.app/Contents/Resources/Font/SystemFont/en.ttf",
+      "id": ""
+     }
+    }
+   ],
+   "text": "Texto predeterminado"
+  }
+ },
+ "mask_rectangle_params": {
+  "ui": "Posicion X 100 Y -2, Rotacion 30, Tamano 400x300 px, Difuminar 40, Esquinas redondeadas 20, invertir (canvas 1920x1080)",
+  "material": {
+   "id": "D5070067-3DB1-499F-B4E0-EA8644EB7758",
+   "type": "mask",
+   "category": "video",
+   "category_name": "",
+   "category_id": "",
+   "panel": "",
+   "is_old_version": false,
+   "resource_id": "7374021450748924432",
+   "constant_material_id": "0CAE0D0D-4E75-4066-B505-C7528F3AF442",
+   "name": "Rectángulo",
+   "resource_type": "rectangle",
+   "path": "$USER_DATA/Cache/effect/1068046526/02b8999168d121538a98ea59127483ef",
+   "position_info": "",
+   "config": {
+    "width": 0.20833333333333334,
+    "height": 0.2777777777777778,
+    "centerX": 0.10416666666666667,
+    "centerY": -0.003703703703703704,
+    "rotation": 30.0,
+    "feather": 0.4,
+    "expansion": 0.0,
+    "roundCorner": 0.2,
+    "invert": true,
+    "aspectRatio": 1.0
+   },
+   "text_config": {
+    "content": "Texto predeterminado",
+    "font_name": "Sistema",
+    "font_path": "/Applications/CapCut.app/Contents/Resources/Font/SystemFont/en.ttf",
+    "font_resource_id": "",
+    "font_size": 40.0,
+    "bold_width": 1.0,
+    "italic_degree": 0,
+    "has_underline": false,
+    "line_gap": 0.0,
+    "char_spacing": 0.0,
+    "align_type": 1,
+    "scale": 100.0
+   },
+   "platform": "all",
+   "loader_work_space": "",
+   "track_segment": "",
+   "contour_path": null,
+   "source_platform": 0
+  }
+ },
+ "mask_shapes": {
+  "line": {
+   "name": "Dividir",
+   "resource_id": "7374020197990011409",
+   "cache_folder": "1068046523",
+   "config": {
+    "width": 0.28,
+    "height": 0.0,
+    "centerX": 0.0,
+    "centerY": 0.0,
+    "rotation": 0.0,
+    "feather": 0.0,
+    "expansion": 0.0,
+    "roundCorner": 0.0,
+    "invert": false,
+    "aspectRatio": 1.0
+   }
+  },
+  "mirror": {
+   "name": "Rollo de película",
+   "resource_id": "7374021024985125377",
+   "cache_folder": "1068046521",
+   "config": {
+    "width": 0.28,
+    "height": 0.5,
+    "centerX": 0.0,
+    "centerY": 0.0,
+    "rotation": 0.0,
+    "feather": 0.0,
+    "expansion": 0.0,
+    "roundCorner": 0.0,
+    "invert": false,
+    "aspectRatio": 1.0
+   }
+  },
+  "rectangle": {
+   "name": "Rectángulo",
+   "resource_id": "7374021450748924432",
+   "cache_folder": "1068046526",
+   "config": {
+    "width": 0.28,
+    "height": 0.5,
+    "centerX": 0.0,
+    "centerY": 0.0,
+    "rotation": 0.0,
+    "feather": 0.0,
+    "expansion": 0.0,
+    "roundCorner": 0.0,
+    "invert": false,
+    "aspectRatio": 1.0
+   }
+  },
+  "pentagram": {
+   "name": "Estrellas",
+   "resource_id": "7665298069453279761",
+   "cache_folder": "4711700584",
+   "config": {
+    "width": 0.28,
+    "height": 0.5,
+    "centerX": 0.0,
+    "centerY": 0.0,
+    "rotation": 0.0,
+    "feather": 0.0,
+    "expansion": 0.0,
+    "roundCorner": 0.0,
+    "invert": false,
+    "aspectRatio": 1.0471014493
+   }
+  },
+  "heart": {
+   "name": "Corazón",
+   "resource_id": "7350964630979613186",
+   "cache_folder": "1068046520",
+   "config": {
+    "width": 0.28,
+    "height": 0.5,
+    "centerX": 0.0,
+    "centerY": 0.0,
+    "rotation": 0.0,
+    "feather": 0.0,
+    "expansion": 0.0,
+    "roundCorner": 0.0,
+    "invert": false,
+    "aspectRatio": 1.1148148148
+   }
+  },
+  "text": {
+   "name": "Texto",
+   "resource_id": "7439320146876830225",
+   "cache_folder": "1220399932",
+   "config": {
+    "width": 0.28,
+    "height": 0.5,
+    "centerX": 0.0,
+    "centerY": 0.0,
+    "rotation": 0.0,
+    "feather": 0.0,
+    "expansion": 0.0,
+    "roundCorner": 0.0,
+    "invert": false,
+    "aspectRatio": 1.0
+   }
+  }
+ },
+ "wordart_text_style": {
+  "ui": "Texto > Efectos > 'Dynamic Pastel Color-Blocking Bubbles' (7678508573365751057), session 4 snapshot before Restablecer; text_color #FFFFFF, use_effect_default_color true",
+  "style": {
+   "fill": {
+    "content": {
+     "texture": {
+      "range": 2,
+      "scale": 1.7999999523162842,
+      "path": "$USER_DATA/Cache/effect/7678508573365751057/90abc020602bfaca99adff9dca09d36f/1787521888850.png"
+     },
+     "render_type": "texture"
+    }
+   },
+   "range": [
+    0,
+    20
+   ],
+   "effectStyle": {
+    "path": "$USER_DATA/Cache/effect/7678508573365751057/90abc020602bfaca99adff9dca09d36f",
+    "id": "7678508573365751057"
+   },
+   "size": 15,
+   "font": {
+    "path": "/Applications/CapCut.app/Contents/Resources/Font/SystemFont/en.ttf",
+    "id": ""
+   }
+  }
+ },
+ "wordart_effect_style_fill": {
+  "file": "$USER_DATA/Cache/effect/7678508573365751057/90abc020602bfaca99adff9dca09d36f/effectStyle.json (fill only; read-only copy of the downloaded resource)",
+  "fill": {
+   "alpha": 1.0,
+   "content": {
+    "gradient": {
+     "alpha": [
+      1.0,
+      1.0
+     ],
+     "angle": 90.0,
+     "color": [
+      [
+       1.0,
+       1.0,
+       1.0
+      ],
+      [
+       0.686274528503418,
+       0.686274528503418,
+       0.686274528503418
+      ]
+     ],
+     "mode": "character",
+     "percent": [
+      0.0,
+      1.0
+     ],
+     "style": "linear"
+    },
+    "render_type": "texture",
+    "solid": {
+     "alpha": 1.0,
+     "color": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "texture": {
+     "alpha": 1.0,
+     "angle": 0.0,
+     "blend": "no",
+     "flip": [
+      false,
+      false
+     ],
+     "path": "1787521888850.png",
+     "playSpeed": 1.0,
+     "range": 2,
+     "scale": 1.8,
+     "stretchMode": "fit",
+     "wrapMode": "repeat"
+    }
+   }
+  }
+ },
+ "_about6": "Session 6 (2026-10-03 23:18-23:24): speed-curve presets and custom points on an 8 s clip at 30 fps (talk_noise.mp4). Custom drags sometimes insert a point next to an existing one (x + 0.000001).",
+ "speed_curves": [
+  {
+   "step": "141",
+   "name": "Personalizado",
+   "id": "6768730851543880206",
+   "speed": 1.5428571812808514,
+   "source_us": 8000000,
+   "target_us": 5200000,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.25,
+     1.0
+    ],
+    [
+     0.49759615384615385,
+     5.75
+    ],
+    [
+     0.75,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "141b",
+   "name": "Personalizado",
+   "id": "6768730851543880206",
+   "speed": 1.4285714030265808,
+   "source_us": 8000000,
+   "target_us": 5600000,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.25,
+     1.0
+    ],
+    [
+     0.49759615384615385,
+     4.0
+    ],
+    [
+     0.75,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "2",
+   "name": "Personalizado",
+   "id": "6768730851543880206",
+   "speed": 1.5999995470046997,
+   "source_us": 8000000,
+   "target_us": 5000000,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.25,
+     2.0
+    ],
+    [
+     0.250001,
+     1.0
+    ],
+    [
+     0.49759615384615385,
+     2.0
+    ],
+    [
+     0.75,
+     1.0
+    ],
+    [
+     0.750001,
+     2.0
+    ],
+    [
+     1.0,
+     2.0
+    ]
+   ]
+  },
+  {
+   "step": "2b",
+   "name": "Personalizado",
+   "id": "6768730851543880206",
+   "speed": 1.7142857015132904,
+   "source_us": 8000000,
+   "target_us": 4666667,
+   "points": [
+    [
+     0.0,
+     2.0
+    ],
+    [
+     0.24759615384615385,
+     2.0
+    ],
+    [
+     0.5,
+     2.0
+    ],
+    [
+     0.500001,
+     1.0
+    ],
+    [
+     0.75,
+     2.0
+    ],
+    [
+     0.750001,
+     1.0
+    ],
+    [
+     1.0,
+     2.0
+    ]
+   ]
+  },
+  {
+   "step": "bala",
+   "name": "Bala",
+   "id": "6768731518358524430",
+   "speed": 2.809371882090666,
+   "source_us": 8000000,
+   "target_us": 2833333,
+   "points": [
+    [
+     0.0,
+     5.2
+    ],
+    [
+     0.4,
+     5.2
+    ],
+    [
+     0.46,
+     0.5
+    ],
+    [
+     0.54,
+     0.5
+    ],
+    [
+     0.6,
+     5.2
+    ],
+    [
+     1.0,
+     5.2
+    ]
+   ]
+  },
+  {
+   "step": "corte",
+   "name": "Corte en la edición",
+   "id": "6768731594225095175",
+   "speed": 0.6776180276574557,
+   "source_us": 8000000,
+   "target_us": 11800000,
+   "points": [
+    [
+     0.0,
+     0.6
+    ],
+    [
+     0.43,
+     0.6
+    ],
+    [
+     0.5,
+     6.0
+    ],
+    [
+     0.57,
+     0.6
+    ],
+    [
+     1.0,
+     0.6
+    ]
+   ]
+  },
+  {
+   "step": "custom",
+   "name": "Personalizado",
+   "id": "6768730851543880206",
+   "speed": 1.0,
+   "source_us": 8000000,
+   "target_us": 8000000,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.25,
+     1.0
+    ],
+    [
+     0.5,
+     1.0
+    ],
+    [
+     0.75,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "flashin",
+   "name": "Flash de entrada",
+   "id": "6768731653402530307",
+   "speed": 1.846929465515636,
+   "source_us": 8000000,
+   "target_us": 4333333,
+   "points": [
+    [
+     0.0,
+     5.2
+    ],
+    [
+     0.4,
+     5.2
+    ],
+    [
+     0.6,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "flashout",
+   "name": "Flash de salida",
+   "id": "6768731733484376589",
+   "speed": 1.8469291838837023,
+   "source_us": 8000000,
+   "target_us": 4333333,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.4,
+     1.0
+    ],
+    [
+     0.6,
+     5.2
+    ],
+    [
+     1.0,
+     5.2
+    ]
+   ]
+  },
+  {
+   "step": "heroe",
+   "name": "Héroe",
+   "id": "6768650238149267981",
+   "speed": 2.0744678266346455,
+   "source_us": 8000000,
+   "target_us": 3866667,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.35,
+     5.5
+    ],
+    [
+     0.45,
+     0.5
+    ],
+    [
+     0.55,
+     0.5
+    ],
+    [
+     0.65,
+     5.5
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "montaje",
+   "name": "Montaje",
+   "id": "6768648600848175619",
+   "speed": 1.4534249930186771,
+   "source_us": 8000000,
+   "target_us": 5500000,
+   "points": [
+    [
+     0.0,
+     0.9
+    ],
+    [
+     0.1,
+     0.9
+    ],
+    [
+     0.5,
+     6.8
+    ],
+    [
+     0.65,
+     0.3
+    ],
+    [
+     0.8,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "reset",
+   "name": "Personalizado",
+   "id": "6768730851543880206",
+   "speed": 1.0,
+   "source_us": 8000000,
+   "target_us": 8000000,
+   "points": [
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.25,
+     1.0
+    ],
+    [
+     0.5,
+     1.0
+    ],
+    [
+     0.75,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  {
+   "step": "session1_montage_5s",
+   "name": "Montaje",
+   "id": "6768648600848175619",
+   "speed": 1.4563108210010507,
+   "source_us": 5000000,
+   "target_us": 3433333,
+   "points": [
+    [
+     0.0,
+     0.9
+    ],
+    [
+     0.1,
+     0.9
+    ],
+    [
+     0.5,
+     6.8
+    ],
+    [
+     0.65,
+     0.3
+    ],
+    [
+     0.8,
+     1.0
+    ],
+    [
+     1.0,
+     1.0
+    ]
+   ],
+   "note": "speed here = source/target after frame snapping; the 8 s save keeps the exact average 1.4534249930"
+  }
+ ]
+}
